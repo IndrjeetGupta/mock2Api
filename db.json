@@ -1,0 +1,76 @@
+{
+    "datas": [
+      { "id": 1,
+       "firstName": "indrajeet",
+       "lastName": "Gupta",
+       "email": "indrajeet@123",
+       "salary": "500000",
+       "date": "1999-05-06"
+     },
+     { "id": 2,
+     "firstName": "indrajeet",
+     "lastName": "Gupta",
+     "email": "indrajeet@123",
+     "salary": "500000",
+     "date": "1999-05-06"
+   },
+   { "id": 3,
+   "firstName": "indrajeet",
+   "lastName": "Gupta",
+   "email": "indrajeet@123",
+   "salary": "500000",
+   "date": "1999-05-06"
+ },
+ { "id": 4,
+ "firstName": "indrajeet",
+ "lastName": "Gupta",
+ "email": "indrajeet@123",
+ "salary": "500000",
+ "date": "1999-05-06"
+},
+{ "id": 5,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+},
+{ "id": 6,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+},
+{ "id": 7,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+},
+{ "id": 8,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+},
+{ "id": 9,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+},
+{ "id": 10,
+"firstName": "indrajeet",
+"lastName": "Gupta",
+"email": "indrajeet@123",
+"salary": "500000",
+"date": "1999-05-06"
+}
+      
+    ]
+  }
+  
